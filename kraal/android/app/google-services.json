@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931338654401",
+    "firebase_url": "https://kraal-7565f.firebaseio.com",
+    "project_id": "kraal-7565f",
+    "storage_bucket": "kraal-7565f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931338654401:android:98eb022f0b6ce313313a40",
+        "android_client_info": {
+          "package_name": "com.luiperdskopsoftware.kraal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931338654401-3hka13032e0qdndua88o2r0rr52sdi98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwo-t1eZev61r2aZAeK0lwZDmHhNcXsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931338654401-3hka13032e0qdndua88o2r0rr52sdi98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
