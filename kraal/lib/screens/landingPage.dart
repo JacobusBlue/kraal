@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kraal/screens/CreateAd.dart';
 import 'package:kraal/screens/CreateNewAdd.dart';
 import 'package:kraal/screens/userInfo.dart';
 
@@ -13,7 +14,7 @@ class _landingPageState extends State<landingPage> {
   int _currentIndex = 2;
   List<Widget> _children = [
     CreatNewAddPage(),
-    CreatNewAddPage(),
+    CreateAd(),
     // publish(),
     // Home(),
     UserInfo(),
