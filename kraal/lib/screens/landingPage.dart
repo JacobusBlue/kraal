@@ -15,8 +15,7 @@ class _landingPageState extends State<landingPage> {
   List<Widget> _children = [
     CreatNewAddPage(),
     CreateAd(),
-    // publish(),
-    // Home(),
+
     UserInfo(),
     //newAddPage(),
     //createNewAdd(),
